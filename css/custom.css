@@ -1,0 +1,14 @@
+:root {
+    --font-color-black: #000000;
+    --font-primary: "Inter", sans-serif;
+    --font-grey: "cabinet-grotesk, sans-serif";
+    --white-accent: rgb(255, 255, 255);
+    --accent-color: #ff6955;
+  }
+  body {
+    font-family: var(--font-primary);
+    overflow-x: hidden;
+  }
+
+  
+
